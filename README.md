@@ -18,6 +18,8 @@ Developed with Unreal Engine 4
   * Game start
   * Disconnect
 
+<img src="/images/Pause.PNG" width="400">
+
 * Damage system
 	* Take damage
 	* Spectator
@@ -37,6 +39,7 @@ https://youtu.be/tNFXsv2h6xQ
 
 * Portals
   * two per person
+
 https://youtu.be/QLsC4n2o6tU
 
 ## Bugs
