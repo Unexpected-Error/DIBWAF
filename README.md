@@ -2,6 +2,10 @@
 
 Developed with Unreal Engine 4
 
+
+<img src="/images/DisplayPic.png" width="400">
+
+
 ## Features
 
 * Main menu
@@ -41,6 +45,17 @@ https://youtu.be/tNFXsv2h6xQ
   * two per person
 
 https://youtu.be/QLsC4n2o6tU
+
+## Textures
+
+The textures used are mostly Quixel megascans assets, with the exception of the mud/grass floor on the 1v1 level, which I created in Quixel Mixer
+
+<img src="/images/layers.PNG" width="400">
+
+## Models
+
+Only models which aren't mine are the humanoid generic character model from Unreal Engine, and the MPX which is used in accordance with the [license](https://creativecommons.org/licenses/by/4.0/legalcode), (model available [here](https://skfb.ly/6RBnV) ). The rest were created in [Blender](https://www.blender.org/).
+
 
 ## Bugs
 * Camera view through protals is buggy
