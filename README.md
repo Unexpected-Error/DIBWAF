@@ -7,8 +7,12 @@ Developed with Unreal Engine 4
 * Main menu
 	* Server Browser/creator
 
+<img src="/images/MapSelect.png" width="400"> 
+
 * HUD
 	* Health bar
+
+<img src="/images/HUD.PNG" width="400"> 
 
 * Pause menu
   * Game start
@@ -29,9 +33,11 @@ Developed with Unreal Engine 4
   * Air strafing
   * Edge/End boosting
 
+https://youtu.be/tNFXsv2h6xQ
+
 * Portals
   * two per person
-
+https://youtu.be/QLsC4n2o6tU
 
 ## Bugs
 * Camera view through protals is buggy
